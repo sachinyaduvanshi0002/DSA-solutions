@@ -35,7 +35,7 @@ Each folder contains:
 
 ## 🚀 LeetCode Profile
 
-Add your profile link here:
+LeetCode profile:
 https://leetcode.com/u/sachinydv0002/
 ---
 
