@@ -9,9 +9,7 @@ class MyQueue(object):
         
 
     def pop(self):
-        if not self.output:
-            while self.input:
-                self.output.append(self.input.pop())
+        self.peek()
         return self.output.pop()
 
 
