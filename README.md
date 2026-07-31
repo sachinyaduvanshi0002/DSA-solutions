@@ -1,14 +1,13 @@
-# LeetCode Solutions 🚀
+# DSA Solutions 🚀
 
-This repository contains my solutions to LeetCode problems solved using Python.
+This repository contains my solutions to DSA problems solved using Python.
 
 ## 📌 About
 
 - 💻 Language: Python
-- 🧠 Platform: LeetCode
+- 🧠 Platform: LeetCode, GFG
 - 🎯 Goal: Improve Data Structures & Algorithms (DSA) skills
-- 🚀 Solutions are automatically synced using LeetHub v2.
-
+- 
 ## 📂 Repository Structure
 
 Each folder contains:
@@ -33,10 +32,13 @@ Each folder contains:
 - Recursion
 - Math
 
-## 🚀 LeetCode Profile
+## 🚀 Profile
 
 LeetCode profile:
 https://leetcode.com/u/sachinydv0002/
+---
+GFG profile:
+https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 ---
 
 ⭐ If you find this repository useful, feel free to star it.
