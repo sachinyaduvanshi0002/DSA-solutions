@@ -77,6 +77,7 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/sachinyaduvanshi0002/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0486-predict-the-winner](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0486-predict-the-winner) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sachinyaduvanshi0002/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Greedy
 |  |
@@ -91,8 +92,21 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/sachinyaduvanshi0002/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0486-predict-the-winner](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0486-predict-the-winner) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/sachinyaduvanshi0002/leetcode-solutions/tree/master/0070-climbing-stairs) |
+## Array
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0486-predict-the-winner) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
