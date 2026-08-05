@@ -71,6 +71,7 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/sachinyaduvanshi0002/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0303-range-sum-query-immutable](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0303-range-sum-query-immutable) |
 ## Queue
 |  |
 | ------- |
@@ -107,6 +108,7 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0486-predict-the-winner](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0877-stone-game) |
 | [3731-find-missing-elements](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/3731-find-missing-elements) |
@@ -127,4 +129,8 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0283-move-zeroes) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
