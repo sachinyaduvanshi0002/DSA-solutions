@@ -121,6 +121,7 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 | [0486-predict-the-winner](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0496-next-greater-element-i) |
 | [0697-degree-of-an-array](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0697-degree-of-an-array) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0877-stone-game](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0877-stone-game) |
 | [3731-find-missing-elements](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/3731-find-missing-elements) |
 ## Recursion
