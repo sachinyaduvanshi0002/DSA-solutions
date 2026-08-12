@@ -100,6 +100,7 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0496-next-greater-element-i) |
 | [0697-degree-of-an-array](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0697-degree-of-an-array) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sachinyaduvanshi0002/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/3731-find-missing-elements) |
@@ -127,6 +128,7 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 | [0717-1-bit-and-2-bit-characters](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0733-flood-fill](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0733-flood-fill) |
 | [0877-stone-game](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0877-stone-game) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/3731-find-missing-elements) |
 ## Recursion
@@ -178,4 +180,8 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 | ------- |
 | [0463-island-perimeter](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0733-flood-fill) |
+## Sliding Window
+|  |
+| ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
