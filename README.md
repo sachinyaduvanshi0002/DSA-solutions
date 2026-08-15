@@ -138,6 +138,7 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 | [0877-stone-game](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0877-stone-game) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/3731-find-missing-elements) |
 ## Recursion
 |  |
@@ -154,6 +155,7 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 |  |
 | ------- |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Two Pointers
 |  |
 | ------- |
