@@ -85,6 +85,7 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/sachinyaduvanshi0002/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0231-power-of-two) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0486-predict-the-winner](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0509-fibonacci-number) |
@@ -146,6 +147,7 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0231-power-of-two](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0509-fibonacci-number) |
 ## Game Theory
@@ -156,6 +158,7 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0231-power-of-two) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Two Pointers
