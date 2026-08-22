@@ -97,6 +97,7 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sachinyaduvanshi0002/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Greedy
 |  |
 | ------- |
