@@ -50,6 +50,7 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0014-longest-common-prefix) |
 | [0257-binary-tree-paths](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0257-binary-tree-paths) |
+| [0387-first-unique-character-in-a-string](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sachinyaduvanshi0002/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sachinyaduvanshi0002/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -66,6 +67,7 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 ## Counting Sort
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sachinyaduvanshi0002/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sachinyaduvanshi0002/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Stack
@@ -82,6 +84,7 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/sachinyaduvanshi0002/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Math
 |  |
 | ------- |
@@ -109,6 +112,7 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 | ------- |
 | [0141-linked-list-cycle](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0141-linked-list-cycle) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0496-next-greater-element-i) |
 | [0697-degree-of-an-array](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0697-degree-of-an-array) |
