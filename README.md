@@ -107,6 +107,7 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0141-linked-list-cycle) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0496-next-greater-element-i) |
@@ -183,6 +184,7 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Prefix Sum
@@ -228,6 +230,7 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0141-linked-list-cycle](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0141-linked-list-cycle) |
 ## Trie
 |  |
 | ------- |
@@ -254,4 +257,8 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0257-binary-tree-paths) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
