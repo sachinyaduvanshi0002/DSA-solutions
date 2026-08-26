@@ -77,6 +77,7 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/sachinyaduvanshi0002/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0682-baseball-game) |
 ## Design
 |  |
 | ------- |
@@ -154,6 +155,7 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 | [0463-island-perimeter](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0463-island-perimeter) |
 | [0486-predict-the-winner](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0682-baseball-game) |
 | [0697-degree-of-an-array](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0697-degree-of-an-array) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0733-flood-fill](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0733-flood-fill) |
@@ -250,6 +252,7 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0682-baseball-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Backtracking
