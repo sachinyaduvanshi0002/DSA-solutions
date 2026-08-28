@@ -59,6 +59,7 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sachinyaduvanshi0002/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sachinyaduvanshi0002/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3174-clear-digits](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/3174-clear-digits) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sachinyaduvanshi0002/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sorting
 |  |
@@ -82,6 +83,7 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 | [0496-next-greater-element-i](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0682-baseball-game) |
 | [1021-remove-outermost-parentheses](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/1021-remove-outermost-parentheses) |
+| [3174-clear-digits](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/3174-clear-digits) |
 ## Design
 |  |
 | ------- |
@@ -258,6 +260,7 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 | ------- |
 | [0682-baseball-game](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0682-baseball-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3174-clear-digits](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/3174-clear-digits) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Backtracking
 |  |
