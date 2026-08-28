@@ -83,6 +83,7 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 | [0496-next-greater-element-i](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0682-baseball-game) |
 | [1021-remove-outermost-parentheses](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [3174-clear-digits](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/3174-clear-digits) |
 ## Design
 |  |
@@ -94,6 +95,7 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/sachinyaduvanshi0002/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Math
 |  |
 | ------- |
@@ -166,6 +168,7 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 | [0717-1-bit-and-2-bit-characters](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0733-flood-fill](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0733-flood-fill) |
 | [0877-stone-game](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0877-stone-game) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -259,6 +262,7 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0682-baseball-game) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3174-clear-digits](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/3174-clear-digits) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
