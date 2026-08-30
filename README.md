@@ -118,6 +118,7 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0409-longest-palindrome) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sachinyaduvanshi0002/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sachinyaduvanshi0002/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Hash Table
@@ -172,6 +173,7 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 | [0877-stone-game](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0877-stone-game) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
