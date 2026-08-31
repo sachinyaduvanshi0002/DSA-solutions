@@ -235,12 +235,14 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 ## Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0101-symmetric-tree) |
 | [0257-binary-tree-paths](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0257-binary-tree-paths) |
 | [0463-island-perimeter](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0101-symmetric-tree) |
 | [0463-island-perimeter](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0733-flood-fill) |
 ## Matrix
@@ -284,11 +286,13 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0096-unique-binary-search-trees) |
+| [0101-symmetric-tree](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0101-symmetric-tree) |
 | [0257-binary-tree-paths](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0257-binary-tree-paths) |
 ## Binary Tree
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0096-unique-binary-search-trees) |
+| [0101-symmetric-tree](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0101-symmetric-tree) |
 | [0257-binary-tree-paths](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0257-binary-tree-paths) |
 ## Floyd's Cycle Finding Algorithm
 |  |
