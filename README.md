@@ -159,6 +159,7 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0014-longest-common-prefix) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0283-move-zeroes](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0303-range-sum-query-immutable) |
@@ -222,6 +223,7 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Enumeration
 |  |
