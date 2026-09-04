@@ -1,8 +1,13 @@
 class Solution(object):
     def singleNumber(self, nums):
         
-        ans = []
+        freq = {}
         for x in nums:
-            if nums.count(x) == 1:
-                ans.append(x)
+            freq[x] = freq.get(x, 0) + 1
+
+        ans = []
+        for i in nums:
+            if freq[i] == 1:
+                ans.append(i)
+
         return ans
