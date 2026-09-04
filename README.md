@@ -170,6 +170,7 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0137-single-number-ii) |
+| [0260-single-number-iii](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -216,6 +217,7 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 | [0136-single-number](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0260-single-number-iii) |
 | [0342-power-of-four](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0342-power-of-four) |
 | [0401-binary-watch](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
