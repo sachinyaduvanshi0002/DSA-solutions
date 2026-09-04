@@ -1,10 +1,17 @@
 class Solution(object):
     def singleNumber(self, nums):
-        
-        freq = {}
-        for x in nums:
-            freq[x] = freq.get(x, 0) + 1
-        
-        for i in freq:
-            if freq[i] == 1:
-                return i
+        ans = 0
+        for i in range(32):
+            count = 0
+
+            for num in nums:
+                if (num >> i) & 1:
+                    count += 1
+            
+            if count % 3 != 0:
+                ans = ans + (2 ** i)
+
+        if ans >= 2 ** 31:
+            ans = ans - 2 ** 32
+
+        return ans
