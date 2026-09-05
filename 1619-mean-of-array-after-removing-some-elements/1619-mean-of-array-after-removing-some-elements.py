@@ -4,5 +4,8 @@ class Solution(object):
         n = len(arr)
         remove = n // 20
 
-        s = arr[remove : n-remove]
-        return float(sum(s)) / len(s)
+        s = 0
+        for i in range(remove, n-remove):
+            s += arr[i]
+
+        return float(s) / (n - 2*remove)
