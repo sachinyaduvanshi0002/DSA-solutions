@@ -66,6 +66,7 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 | ------- |
 | [0088-merge-sorted-array](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0088-merge-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1619-mean-of-array-after-removing-some-elements](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sachinyaduvanshi0002/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sachinyaduvanshi0002/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -184,6 +185,7 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 | [0717-1-bit-and-2-bit-characters](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0733-flood-fill](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0733-flood-fill) |
 | [0877-stone-game](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0877-stone-game) |
+| [1619-mean-of-array-after-removing-some-elements](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
