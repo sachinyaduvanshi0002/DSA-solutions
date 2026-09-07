@@ -158,6 +158,7 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 | [0746-min-cost-climbing-stairs](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/1137-n-th-tribonacci-number) |
+| [3693-climbing-stairs-ii](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/3693-climbing-stairs-ii) |
 ## Memoization
 |  |
 | ------- |
@@ -201,6 +202,7 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/3483-unique-3-digit-even-numbers) |
+| [3693-climbing-stairs-ii](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/3693-climbing-stairs-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/3731-find-missing-elements) |
