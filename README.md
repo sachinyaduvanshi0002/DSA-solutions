@@ -155,6 +155,7 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 | [0139-word-break](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0139-word-break) |
 | [0486-predict-the-winner](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
@@ -189,6 +190,7 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 | [0697-degree-of-an-array](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0697-degree-of-an-array) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0733-flood-fill](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0733-flood-fill) |
+| [0746-min-cost-climbing-stairs](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0877-stone-game) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
