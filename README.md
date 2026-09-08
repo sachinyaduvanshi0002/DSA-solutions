@@ -172,6 +172,7 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 | [0004-median-of-two-sorted-arrays](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0014-longest-common-prefix) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0039-combination-sum](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0039-combination-sum) |
 | [0088-merge-sorted-array](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -307,6 +308,7 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0039-combination-sum) |
 | [0257-binary-tree-paths](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0401-binary-watch) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
