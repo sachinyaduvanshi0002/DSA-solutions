@@ -57,6 +57,7 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 | [0405-convert-a-number-to-hexadecimal](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0409-longest-palindrome) |
 | [1021-remove-outermost-parentheses](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sachinyaduvanshi0002/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sachinyaduvanshi0002/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -87,6 +88,7 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 | [0496-next-greater-element-i](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0682-baseball-game) |
 | [1021-remove-outermost-parentheses](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [3174-clear-digits](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/3174-clear-digits) |
 ## Design
