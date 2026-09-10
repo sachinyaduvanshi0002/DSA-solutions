@@ -83,6 +83,7 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0020-valid-parentheses) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0155-min-stack](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/sachinyaduvanshi0002/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0496-next-greater-element-i) |
@@ -274,6 +275,7 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0101-symmetric-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0257-binary-tree-paths](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0257-binary-tree-paths) |
 | [0463-island-perimeter](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0733-flood-fill) |
@@ -297,6 +299,7 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0141-linked-list-cycle) |
 ## Trie
 |  |
@@ -330,6 +333,7 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0257-binary-tree-paths](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0257-binary-tree-paths) |
 ## Binary Tree
 |  |
@@ -339,6 +343,7 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0257-binary-tree-paths](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0257-binary-tree-paths) |
 ## Floyd's Cycle Finding Algorithm
 |  |
