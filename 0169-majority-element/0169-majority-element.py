@@ -1,7 +1,16 @@
 class Solution(object):
     def majorityElement(self, nums):
-        freq = {}
+
+        candidate = None
+        cnt = 0
+
         for x in nums:
-            freq[x] = freq.get(x, 0) + 1
+            if cnt == 0:
+                candidate = x
+
+            if x == candidate:
+                cnt += 1
+            
+            else: cnt -= 1
         
-        return max(freq, key = freq.get)
+        return candidate
