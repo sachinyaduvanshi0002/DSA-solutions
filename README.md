@@ -67,6 +67,7 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -76,6 +77,7 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sachinyaduvanshi0002/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sachinyaduvanshi0002/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -139,6 +141,7 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0139-word-break](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0169-majority-element) |
 | [0290-word-pattern](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0290-word-pattern) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -187,6 +190,7 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 | [0136-single-number](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0139-word-break) |
+| [0169-majority-element](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0169-majority-element) |
 | [0260-single-number-iii](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0303-range-sum-query-immutable) |
@@ -366,8 +370,13 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0169-majority-element) |
 ## Brute-Force Search
 |  |
 | ------- |
 | [0139-word-break](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0139-word-break) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
