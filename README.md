@@ -120,6 +120,7 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 | [0486-predict-the-winner](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0877-stone-game) |
+| [0908-smallest-range-i](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0908-smallest-range-i) |
 | [1137-n-th-tribonacci-number](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sachinyaduvanshi0002/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -209,6 +210,7 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 | [0733-flood-fill](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0877-stone-game) |
+| [0908-smallest-range-i](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0908-smallest-range-i) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
