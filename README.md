@@ -48,6 +48,7 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0020-valid-parentheses) |
 | [0139-word-break](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0139-word-break) |
@@ -164,6 +165,7 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/sachinyaduvanshi0002/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0139-word-break](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0139-word-break) |
@@ -257,6 +259,7 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0088-merge-sorted-array](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0283-move-zeroes) |
@@ -386,4 +389,8 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 | ------- |
 | [0169-majority-element](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0229-majority-element-ii) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
