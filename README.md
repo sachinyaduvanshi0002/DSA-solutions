@@ -120,6 +120,7 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 | [0405-convert-a-number-to-hexadecimal](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0486-predict-the-winner](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0509-fibonacci-number) |
+| [0836-rectangle-overlap](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0877-stone-game) |
 | [0908-smallest-range-i](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0908-smallest-range-i) |
 | [1137-n-th-tribonacci-number](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/1137-n-th-tribonacci-number) |
@@ -393,4 +394,8 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0005-longest-palindromic-substring) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
