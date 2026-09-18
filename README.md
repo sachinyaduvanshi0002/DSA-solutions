@@ -73,6 +73,7 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 | [0169-majority-element](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0905-sort-array-by-parity](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0905-sort-array-by-parity) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sachinyaduvanshi0002/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -217,6 +218,7 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 | [0733-flood-fill](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0877-stone-game) |
+| [0905-sort-array-by-parity](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0905-sort-array-by-parity) |
 | [0908-smallest-range-i](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0908-smallest-range-i) |
 | [1002-find-common-characters](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/1002-find-common-characters) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/1619-mean-of-array-after-removing-some-elements) |
@@ -270,6 +272,7 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 | [0141-linked-list-cycle](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0905-sort-array-by-parity](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0905-sort-array-by-parity) |
 ## Prefix Sum
 |  |
 | ------- |
