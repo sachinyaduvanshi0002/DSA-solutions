@@ -17,6 +17,9 @@ class Solution(object):
                 if i > start and candidates[i] == candidates[i-1]:
                     continue
                 
+                if candidates[i] > target:
+                    break
+
                 temp.append(candidates[i])
 
                 backtrack(i+1, target - candidates[i])
