@@ -147,6 +147,7 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -193,6 +194,7 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0014-longest-common-prefix) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
