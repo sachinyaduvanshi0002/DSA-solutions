@@ -65,6 +65,7 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sachinyaduvanshi0002/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3174-clear-digits](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/3174-clear-digits) |
+| [3280-convert-date-to-binary](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/3280-convert-date-to-binary) |
 | [3498-reverse-degree-of-a-string](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sachinyaduvanshi0002/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sorting
@@ -131,6 +132,7 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 | [1137-n-th-tribonacci-number](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sachinyaduvanshi0002/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3280-convert-date-to-binary](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/3280-convert-date-to-binary) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
