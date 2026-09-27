@@ -1,8 +1,8 @@
 class Solution(object):
     def containsDuplicate(self, nums):
-        freq = {}
+        seen = set()
         for x in nums:
-            if x not in freq:
-                freq[x] = 1
+            if x not in seen:
+                seen.add(x)
             else: return True
         return False
