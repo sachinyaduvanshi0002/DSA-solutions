@@ -160,6 +160,7 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 | [0141-linked-list-cycle](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0229-majority-element-ii) |
 | [0290-word-pattern](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0290-word-pattern) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -219,6 +220,7 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 | [0139-word-break](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0283-move-zeroes) |
@@ -335,6 +337,7 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0219-contains-duplicate-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Linked List
