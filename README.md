@@ -75,6 +75,7 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 | [0169-majority-element](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0905-sort-array-by-parity](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0905-sort-array-by-parity) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/1619-mean-of-array-after-removing-some-elements) |
@@ -121,6 +122,7 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 | [0070-climbing-stairs](https://github.com/sachinyaduvanshi0002/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0231-power-of-two](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -162,6 +164,7 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 | [0217-contains-duplicate](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0290-word-pattern) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -223,6 +226,7 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 | [0219-contains-duplicate-ii](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -279,6 +283,7 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 | [0137-single-number-ii](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0342-power-of-four) |
 | [0401-binary-watch](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -303,6 +308,7 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0268-missing-number](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Enumeration
 |  |
