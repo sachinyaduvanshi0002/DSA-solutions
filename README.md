@@ -210,6 +210,7 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 | [0001-two-sum](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0014-longest-common-prefix) |
+| [0033-search-in-rotated-sorted-array](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0040-combination-sum-ii) |
@@ -311,6 +312,7 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0268-missing-number](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
