@@ -285,6 +285,7 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 | ------- |
 | [0136-single-number](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0137-single-number-ii) |
+| [0191-number-of-1-bits](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0268-missing-number) |
@@ -428,6 +429,7 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0191-number-of-1-bits) |
 ## Brute-Force Search
 |  |
 | ------- |
