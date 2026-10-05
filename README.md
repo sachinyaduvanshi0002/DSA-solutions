@@ -58,6 +58,7 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 | [0387-first-unique-character-in-a-string](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0409-longest-palindrome) |
+| [0551-student-attendance-record-i](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0551-student-attendance-record-i) |
 | [1002-find-common-characters](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/1002-find-common-characters) |
 | [1021-remove-outermost-parentheses](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
