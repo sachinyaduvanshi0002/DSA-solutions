@@ -192,6 +192,7 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0139-word-break) |
+| [0322-coin-change](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0322-coin-change) |
 | [0486-predict-the-winner](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0746-min-cost-climbing-stairs) |
@@ -234,6 +235,7 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 | [0268-missing-number](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0303-range-sum-query-immutable) |
+| [0322-coin-change](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0322-coin-change) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0463-island-perimeter) |
@@ -341,6 +343,7 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0101-symmetric-tree) |
+| [0322-coin-change](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0733-flood-fill) |
 ## Matrix
@@ -450,4 +453,12 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0836-rectangle-overlap) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
