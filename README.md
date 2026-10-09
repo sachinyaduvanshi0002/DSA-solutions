@@ -271,6 +271,7 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0342-power-of-four) |
@@ -364,6 +365,7 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 | [0021-merge-two-sorted-lists](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0206-reverse-linked-list) |
 ## Trie
 |  |
 | ------- |
