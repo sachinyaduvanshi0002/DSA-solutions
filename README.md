@@ -192,6 +192,7 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0322-coin-change) |
 | [0486-predict-the-winner](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0509-fibonacci-number) |
@@ -226,6 +227,7 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 | [0136-single-number](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0219-contains-duplicate-ii) |
