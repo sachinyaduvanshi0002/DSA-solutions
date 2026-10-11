@@ -120,6 +120,7 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/sachinyaduvanshi0002/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0231-power-of-two](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0231-power-of-two) |
@@ -272,6 +273,7 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0231-power-of-two) |
@@ -364,6 +366,7 @@ https://www.geeksforgeeks.org/profile/sachinydv0002?tab=activity
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/sachinyaduvanshi0002/DSA-solutions/tree/master/0141-linked-list-cycle) |
